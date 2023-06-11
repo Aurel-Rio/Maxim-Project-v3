@@ -1,0 +1,23 @@
+#HOME{
+    margin: 300px 120px 80px 120px;
+    font-family: fantasy;
+    font-size: 15px;
+}
+
+#home_title{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.center_element{
+    border: 1px solid grey;
+    margin: 25px 0px 25px 0px;
+    text-align: center;
+    padding: 15px;
+}
+
+.indent{
+    text-indent: 2em;
+    letter-spacing: 2px;
+}
+
